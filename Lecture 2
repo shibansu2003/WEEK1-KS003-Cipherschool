@@ -1,0 +1,7 @@
+#include<iostream>   //header files
+using namespace std;
+int main(){
+    cout<<"Hello World"<<endl;      //Helo World willbe printed on the screen
+    return 0;
+}
+//Shibansu Mandal
